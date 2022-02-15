@@ -40,3 +40,15 @@ class MainClass {
 
 
 Torne esse programa reutilizável... Deixando-o flexível, aleatório e com funcionalidades!
+
+
+
+Exemplos:
+
+*Deixar o numero aleatório...*
+
+*Mostrar o nome da pessoa...*
+
+*Mudar o range...*
+
+*E por ai vai!*
